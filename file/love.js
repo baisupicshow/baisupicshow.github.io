@@ -162,7 +162,7 @@
             ctx.translate(point.x, point.y);
             ctx.scale(scale, scale);
             ctx.moveTo(0, 0);
-    	    ctx.lineTo(15, 15);
+    	    ctx.lineTo(25, 25);
     	    ctx.lineTo(60, 15);
             ctx.stroke();
 
